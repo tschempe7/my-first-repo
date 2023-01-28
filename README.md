@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Now I am including steps for Github.
 
-Test 123
+Testing the pull command on Git.
