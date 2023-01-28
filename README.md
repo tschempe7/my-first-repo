@@ -4,4 +4,6 @@ This is an example repository for the Git tutoial.
 
 This repository is built step by step in the tutorial.
 
-NoW I am including steps for Github.
+Now I am including steps for Github.
+
+Test 123
